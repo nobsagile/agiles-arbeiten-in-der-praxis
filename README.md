@@ -1,7 +1,7 @@
 # Agiles Arbeiten in der Praxis
 
 <p align="center">
-  <img src="URL/ZUM/BUCHCOVER.png" alt="Buchcover Agiles Arbeiten in der Praxis" width="400"/>
+  <img src="https://no-bullshit-agile.de/media/posts/143/responsive/teaser-2-xl.webp" alt="Buchcover Agiles Arbeiten in der Praxis" width="400"/>
 </p>
 
 Willkommen im offiziellen Repository zum Buch **„Agiles Arbeiten in der Praxis“**. Dieses Repository enthält das vollständige und lebendige Manuskript. Es ist die konsequente Fortführung meines Podcasts **[No Bullshit Agile](https://no-bullshit-agile.de)** – ein Leitfaden, der ehrliche Einblicke gibt und Mindset über Methode stellt.
