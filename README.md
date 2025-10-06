@@ -45,4 +45,4 @@ Für Details siehe die [LICENSE](LICENSE)-Datei in diesem Repository.
 
 ### Über den Autor
 
-Mein Name ist [Dein Name]. Seit über 20 Jahren helfe ich Teams und Unternehmen dabei, ihre Zusammenarbeit zu verbessern und Software zu entwickeln, die echten Wert schafft. Ich bin der Host des Podcasts [No Bullshit Agile](https://no-bullshit-agile.de) und erreichbar auf Mastodon unter [@nobsagile@mastodon.social](https://mastodon.social/@nobsagile).
+Mein Name ist Thomas. Ich bin der Host des Podcasts [No Bullshit Agile](https://no-bullshit-agile.de) und erreichbar auf Mastodon unter [@nobsagile@mastodon.social](https://mastodon.social/@nobsagile).
