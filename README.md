@@ -31,7 +31,7 @@ Es gibt verschiedene einfache Wege, wie du mitmachen kannst:
 
 *   💡 **Für inhaltliche Vorschläge oder größere Änderungen:** Erstelle einen "Fork" dieses Repositories, nimm deine Änderungen vor und reiche sie dann als "Pull Request" ein. So können wir deine Vorschläge diskutieren.
 
-*   💬 **Für Diskussionen oder allgemeines Feedback:** Wenn du eine Idee diskutieren möchtest, bevor du einen Text änderst, erstelle einfach [hier ein Issue](URL/ZUM/ISSUES-TAB).
+*   💬 **Für Diskussionen oder allgemeines Feedback:** Wenn du eine Idee diskutieren möchtest, bevor du einen Text änderst, erstelle einfach [hier ein Issue](https://github.com/nobsagile/agiles-arbeiten-in-der-praxis/issues).
 
 Jeder Beitrag, egal wie klein, ist wertvoll und willkommen!
 
