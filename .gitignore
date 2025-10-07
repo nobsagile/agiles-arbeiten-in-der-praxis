@@ -1,0 +1,23 @@
+# =========================
+# macOS
+# =========================
+# Versteckte Systemdateien, die macOS in Ordnern erstellt, um z.B.
+# die Anordnung von Icons oder Fenstergrößen zu speichern.
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dateien, die auf externen Laufwerken oder bei der Interaktion
+# mit anderen Dateisystemen entstehen können.
+._*
+.Spotlight-V100
+.Trashes
+
+# =========================
+# Visual Studio Code
+# =========================
+# Der .vscode Ordner enthält benutzerspezifische Workspace-Einstellungen.
+# Es ist gute Praxis, ihn zu ignorieren, damit jeder seine eigene
+# Editor-Konfiguration haben kann, ohne die der anderen zu überschreiben.
+.vscode/
+
