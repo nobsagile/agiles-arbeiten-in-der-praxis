@@ -4,7 +4,9 @@
   <img src="https://no-bullshit-agile.de/media/posts/143/responsive/teaser-2-xl.webp" alt="Buchcover Agiles Arbeiten in der Praxis" width="400"/>
 </p>
 
-Willkommen im offiziellen Repository zum Buch **„Agiles Arbeiten in der Praxis“**. Dieses Repository enthält das vollständige und lebendige Manuskript. Es ist die konsequente Fortführung meines Podcasts **[No Bullshit Agile](https://no-bullshit-agile.de)** – ein Leitfaden, der ehrliche Einblicke gibt und Mindset über Methode stellt.
+Willkommen im offiziellen Repository zum Buch **„Agiles Arbeiten in der Praxis“**. Das Buch und weitere Hinbtergrundinformationen findest du hier: https://no-bullshit-agile.de/buch-agiles-arbeiten-in-der-praxis.html
+
+Dieses Repository enthält das vollständige und lebendige Manuskript. Es ist die konsequente Fortführung meines Podcasts **[No Bullshit Agile](https://no-bullshit-agile.de)** – ein Leitfaden, der ehrliche Einblicke gibt und Mindset über Methode stellt.
 
 ---
 
