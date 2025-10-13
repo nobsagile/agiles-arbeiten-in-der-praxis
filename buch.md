@@ -16,11 +16,13 @@ Im **vierten Teil** gehe ich dann praxisnah auf die Methode Kanban ein. Dazu fol
 
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/@nobsagile.
 
+Version 1.0.1
+
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
 
 Dieses Buch steht unter folgender Lizenz:
 
-Agiles Arbeiten in der Praxis  © 2025 by Thomas Esders is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+Agiles Arbeiten in der Praxis © 2025 by Thomas Esders is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 # Teil I: Das Fundament
