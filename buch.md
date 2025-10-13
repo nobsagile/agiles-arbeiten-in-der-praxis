@@ -27,7 +27,7 @@ Agiles Arbeiten in der Praxis  © 2025 by Thomas Esders is licensed under Creati
 
 Wir alle sprechen von Agilität. Wir nutzen Scrum, haben Dailys und füllen Backlogs. Und doch stellt sich oft eine quälende Frage: Warum fühlt es sich so oft mühsam, ineffektiv und frustrierend an? Warum scheint das große Versprechen von Agilität in der Praxis so selten eingelöst zu werden?
 
-Dieser erste Teil des Buches ist die Antwort. Wir legen die Methoden und die komplexen Frameworks für einen Moment beiseite und kehren zurück zum absoluten Fundament. Bevor wir über das „Wie“ sprechen können, müssen wir das „Warum“ verstehen. Wir entdecken das agile Manifest neu, entlarven die Missverständnisse, die zu Scheinagilität führen, und bauen gemeinsam die Basis, auf der echte, wirksame Agilität erst entstehen kann: das richtige Mindset. Denn ohne dieses Fundament ist jedes agile Vorgehen nur ein Ritual ohne Seele.
+Dieser erste Teil des Buches liefert die Antwort. Wir legen die Methoden und die komplexen Frameworks für einen Moment beiseite und kehren zurück zum absoluten Fundament. Bevor wir über das „Wie“ sprechen können, müssen wir das „Warum“ verstehen. Wir entdecken das agile Manifest neu, entlarven die Missverständnisse, die zu Scheinagilität führen, und bauen gemeinsam die Basis, auf der echte, wirksame Agilität erst entstehen kann: das richtige Mindset. Denn ohne dieses Fundament ist jedes agile Vorgehen nur ein Ritual ohne Seele.
 
 ## Das agile Manifest und seine 12 Prinzipien
 
@@ -49,7 +49,7 @@ Gehen wir die vier Werte des Manifests durch und was sie für deine tägliche Ar
 
 **1. Individuen und Interaktionen mehr als Prozesse und Werkzeuge**
 
-Natürlich sind Prozesse und Werkzeuge wichtig. Sie geben Struktur und Unterstützung. Aber du solltest dich niemals hinter ihnen verstecken. Anstatt dich im stillen Kämmerlein stur an einen Prozess oder die Vorgaben eines Tools zu halten, sprich lieber direkt mit deinen Kollegen. Die direkte Interaktion zwischen Menschen ist entscheidend, um Herausforderungen zu lösen und wirklich gute Software zu entwickeln.
+Natürlich sind Prozesse und Werkzeuge wichtig. Sie geben Struktur und Unterstützung. Aber du solltest dich niemals hinter ihnen verstecken. Anstatt dich im stillen Kämmerlein stur an einen Prozess oder die Vorgaben eines Tools zu halten, sprich lieber direkt mit deinen Kolleg. Die direkte Interaktion zwischen Menschen ist entscheidend, um Herausforderungen zu lösen und wirklich gute Software zu entwickeln.
 
 **2. Funktionierende Software mehr als umfassende Dokumentation**
 
@@ -57,7 +57,7 @@ Der eigentliche Wert entsteht durch eine Software, die funktioniert und die dein
 
 **3. Zusammenarbeit mit dem Kunden mehr als Vertragsverhandlungen**
 
-Gerade in der Zusammenarbeit mit größeren Unternehmen stößt du auf feste Einkaufs- und Vertragsprozesse. Das ist aus deren Sicht auch verständlich. Doch es ergibt keinen Sinn, stur auf den Details eines Lasten- oder Pflichtenhefts zu beharren, wenn sich die Realität ändert. Auch dein Kunde lernt im Laufe des Projekts dazu. Was anfangs eine gute Idee schien, kann sich später als falsch herausstellen. In solchen Momenten ist es viel wertvoller, "zum Hörer" zu greifen und gemeinsam eine Lösung zu finden, anstatt auf die Buchstaben des Vertrags zu pochen.
+Gerade in der Zusammenarbeit mit größeren Unternehmen stößt du auf feste Einkaufs- und Vertragsprozesse. Das ist aus deren Sicht auch verständlich. Doch es ergibt keinen Sinn, stur auf den Details eines Lasten- oder Pflichtenhefts zu beharren, wenn sich die Realität ändert. Auch dein Kunde lernt im Laufe des Projekts dazu. Was anfangs eine gute Idee schien, kann sich später als falsch herausstellen. In solchen Momenten ist es viel wertvoller, das Gespräch zu suchen und gemeinsam eine Lösung zu finden, anstatt auf die Buchstaben des Vertrags zu pochen.
 
 **4. Reagieren auf Veränderungen mehr als das Befolgen eines Plans**
 
@@ -83,7 +83,7 @@ Hier steht der Nutzen für den Kunden im Mittelpunkt. Du entwickelst keine Softw
 
 **3. Liefere funktionierende Software regelmäßig innerhalb weniger Wochen oder Monate und bevorzuge dabei die kürzere Zeitspanne.**
 
-Der Gedanke dahinter ist klar: Du willst einen hohen Durchsatz, frühes Feedback und die Gewissheit, dass deine Ideen in der Praxis funktionieren. Das geht über den reinen MVP-Gedanken hinaus. Indem du über das gesamte Projekt hinweg regelmäßig kleine, funktionierende Versionen lieferst, stellst du vielleicht sogar fest, dass du gar nicht alles entwickeln musst, was ursprünglich geplant war. Oft reichen 80 % des ursprünglichen Umfangs aus, weil du durch das frühe Feedback gelernt hast, was wirklich zählt.
+Der Gedanke dahinter ist klar: Du willst einen hohen Durchsatz, frühes Feedback und die Gewissheit, dass deine Ideen in der Praxis funktionieren. Das geht über den reinen MVP-Gedanken hinaus. Indem du über das gesamte Projekt hinweg regelmäßig kleine, funktionierende Versionen lieferst, stellst du vielleicht sogar fest, dass du gar nicht alles entwickeln musst, was ursprünglich geplant war. Oft reichen 80% des ursprünglichen Umfangs aus, weil du durch das frühe Feedback gelernt hast, was wirklich zählt.
 
 **4. Fachexperten und Entwickler müssen während des Projekts täglich zusammenarbeiten.**
 
@@ -95,7 +95,7 @@ Dieser Punkt, besonders der letzte Teil – das Vertrauen –, ist in der Praxis
 
 **6. Die effizienteste und effektivste Methode, Informationen an und innerhalb eines Entwicklungsteams zu übermitteln, ist im Gespräch von Angesicht zu Angesicht.**
 
-Dieses Prinzip stammt aus dem Jahr 2001, lange vor der Pandemie und der heutigen Homeoffice-Kultur. Dennoch ist es aktueller denn je. Auch wenn Videoanrufe heute Standard sind, geht bei der reinen Online-Kommunikation unglaublich viel verloren. Es ist etwas völlig anderes, gemeinsam in einem Raum vor einem Whiteboard zu stehen und eine Idee zu diskutieren. Der direkte Dialog bleibt unschlagbar, um komplexe Informationen effizient zu übermitteln und ein gemeinsames Verständnis zu schaffen.
+Direkte und synchrone Kommunikation über die aktuelle Arbeit ist viel effektiver, als asynchrones schriftliches Diskutieren. Das ist auch ein Grund, warum das Daily Scrum ein so wichtiges Event im Framework ist. Außerdem: Dieses Prinzip stammt aus dem Jahr 2001, lange vor der Corona-Pandemie 2020 und der sich seit dem festigenden Homeoffice-Kultur. Dennoch ist es aktueller denn je. Auch wenn Videoanrufe heute Standard sind, geht bei der reinen Online-Kommunikation unglaublich viel verloren. Es ist etwas völlig anderes, gemeinsam in einem Raum vor einem Whiteboard zu stehen und eine Idee zu diskutieren. Der direkte Dialog bleibt unschlagbar, um komplexe Informationen effizient zu übermitteln und ein gemeinsames Verständnis zu schaffen. 
 
 **7. Funktionierende Software ist das wichtigste Fortschrittsmaß.**
 
@@ -103,7 +103,7 @@ Lass diesen Satz auf dich wirken. Dein Fortschritt wird nicht an der "Velocity" 
 
 **8. Agile Prozesse fördern nachhaltige Entwicklung. Die Auftraggeber, Entwickler und Benutzer sollten ein gleichmäßiges Tempo auf unbegrenzte Zeit halten können.**
 
-Viele Menschen assoziieren "agil" fälschlicherweise mit "schnell". Doch agil bedeutet "beweglich". Es geht nicht darum, in Sprints zu hetzen. Deine Arbeit sollte eher einem Dauerlauf oder einem entspannten Spaziergang gleichen. Das Ziel ist ein gleichmäßiges, nachhaltiges Tempo, das alle Beteiligten auf unbegrenzte Zeit durchhalten können, ohne auszubrennen.
+Viele Menschen assoziieren "agil" fälschlicherweise mit "schnell". Doch agil bedeutet "beweglich". Es geht nicht darum, in Sprints zu hetzen. Deine Arbeit sollte eher einem Dauerlauf oder einem entspannten Spaziergang gleichen. Das Ziel ist ein gleichmäßiges, nachhaltiges Tempo, das alle Beteiligten auf unbegrenzte Zeit durchhalten können, ohne auszubrennen. Diese Rhythmik erlaubt auch, unnötigen Schwierigkeiten auszuweichen und unvermeidbaren Schwierigkeiten gezielt zu begegenen.
 
 **9. Ständiges Augenmerk auf technische Exzellenz und gutes Design fördert Agilität.**
 
@@ -129,7 +129,7 @@ Du hast die Werte und Prinzipien jetzt wieder frisch im Kopf. Als Nächstes geht
 
 Du hast es sicher schon oft erlebt: In Diskussionen, auf Social Media oder in Artikeln klagen viele darüber, dass agiles Arbeiten nicht funktioniert. Viele, die in "agilen" Teams arbeiten, fühlen sich gegängelt. Das was sie über agiles Arbeiten lesen entspricht nicht dem, wie sie bei sich agiles Arbeiten erleben. Sie sagen: „Wir machen doch Scrum“ oder „Wir nutzen Jira und haben ein Daily“, aber irgendwie funktioniert das alles nicht. Die Folge ist oft pure Frustration.
 
-Die Frage ist: Warum ist das so? Die Antwort liegt in einem fundamentalen Missverständnis dessen, was Agilität im Kern ausmacht.
+Warum ist das so? Die Antwort liegt in einem fundamentalen Missverständnis dessen, was Agilität im Kern ausmacht.
 
 ### Das große Missverständnis: Falsche Erwartungen
 
@@ -145,7 +145,7 @@ Genau hier liegt das Problem. Diese Aussagen schaffen Erwartungen, die Agilität
 
 Bevor du überhaupt über Agilität nachdenkst, solltest du dir eine ehrliche Frage stellen: Welche Art von Tätigkeit übst du und dein Team aus?
 
-Stell dir vor, du arbeitest bei VW und baust einen Golf. Der Prozess ist bekannt, die Schritte sind klar, das Ergebnis ist definiert. Du **reproduzierst** etwas. In einem solchen Umfeld brauchst du keine Agilität. Ein klassischer Planungsansatz ist hier wahrscheinlich effizienter und sinnvoller.
+Stell dir vor, du arbeitest bei VW und baust einen Golf. Der Prozess ist bekannt, die Schritte sind klar, das Ergebnis ist definiert. Du **reproduzierst** etwas. In einem solchen Umfeld brauchst du kein hohes Maß an Agilität. Ein klassischer Planungsansatz ist hier wahrscheinlich effizienter und sinnvoller.
 
 Jetzt stell dir vor, du entwickelst eine völlig neue Software. Du betrittst permanent **Neuland**. Die Anforderungen sind am Anfang vage, denn selbst der Kunde kann nicht vollständig beschreiben, was er am Ende genau braucht (auch, wenn er das manchmal behauptet). Das ist kein Vorwurf, das ist menschlich und völlig normal. In Projekten werden wir alle schlauer.
 
@@ -161,11 +161,11 @@ Agilität ist also die Antwort auf Projekte, bei denen der Weg und das Ziel nich
 
 Wenn du also in einem Umfeld des „Neulands“ arbeitest, wie setzt du Agilität dann richtig um? Hier kommt der entscheidende Punkt: **Agilität ist zuallererst ein Mindset, eine Haltung.**
 
-Es braucht am Anfang nicht viel: Nur das Verständnis für das Agile Manifest und seine zwölf Prinzipien. Das ist die Basis. Alles andere – Scrum, Kanban, Jira, Rollen wie der Product Owner oder Scrum Master – ist untergeordnet. Diese Methoden und Werkzeuge sind nur Hilfestellungen, die *on top* kommen. Sie sind das „Wie“, aber das Mindset ist das „Warum“.
+Es braucht am Anfang nicht viel: Nur das Verständnis für das Agile Manifest und seine zwölf Prinzipien. Das ist die Basis. Alles andere – Scrum, Kanban, Jira, Rollen wie der Product Owner oder Scrum Master – ist untergeordnet. Diese Frameworks, Methoden und Werkzeuge sind nur Hilfestellungen, die *on top* kommen. Sie sind das „Wie“, aber das Mindset ist das „Warum“.
 
 Der häufigste Fehler ist, diesen Schritt zu überspringen. Menschen sehnen sich nach klaren Regeln, deshalb greifen sie zu einem Framework wie Scrum. Sie halten sich penibel an das Regelwerk, führen alle Zeremonien durch und wundern sich dann, warum sie nicht agil sind. Der Grund ist einfach: Sie oder ihr Umfeld haben das Fundament, das Mindset, nicht verstanden oder verinnerlicht.
 
-Wenn bei dir im Team die Frage aufkommt „Warum funktioniert Scrum bei uns nicht?“, solltest du einen Schritt zurücktreten und fragen: „Warum verstehen wir die Grundprinzipien der Agilität nicht?“
+Wenn bei dir im Team die Frage aufkommt „Warum funktioniert Scrum bei uns nicht?“, solltest du einen Schritt zurücktreten und fragen: „Welche Grundprinzipien der Agilität leben wir nicht gut genug?“
 
 ### Die „Agile Primitives“: Der Baukasten, auf den es wirklich ankommt
 
