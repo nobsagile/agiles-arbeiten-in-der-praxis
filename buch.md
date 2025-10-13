@@ -12,7 +12,7 @@ Im **zweiten Teil** geht es um alle Beteiligten - die Menschen, die in agilen Pr
 
 Der **dritte Teil** taucht dann tief in die Praxis des agilen Arbeitens ein. Wir klären, wie wir Projekte planen, ohne in die Wasserfall-Falle zu tappen, wie wir Anforderungen als User Stories so schneiden, dass sie echten Wert liefern, und wie wir den Arbeitsfluss steuern, um Ergebnisse zu erzielen, anstatt nur beschäftigt zu sein.
 
-Im **vierten Teil** gehe ich dann praxisnah auf die Methode Kanban ein. Dazu folgender Hinweis: Ich beschreibe Kanban als Methode, da es in seiner Essenz flexibler ist und den hier beschriebenen Kernprinzipien oft näher kommt. Dies ist keine Abwertung von Scrum, sondern ein Plädoyer für einen prinzipienfesten Pragmatismus, den Kanban exemplarisch verkörpert. Alle angesprochenen Themen in den Teilen I bis III sind komplett unabhängig von einer Methode, die agiles Arbeiten implementiert.
+Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu folgender Hinweis: Ich beschreibe Kanban als Methode, da es in seiner Essenz flexibler ist und den hier beschriebenen Kernprinzipien oft näher kommt. Dies ist keine Abwertung von Scrum, sondern ein Plädoyer für einen prinzipienfesten Pragmatismus, den Kanban exemplarisch verkörpert. Alle angesprochenen Themen in den Teilen I bis III sind komplett unabhängig von einer Methode, die agiles Arbeiten implementiert.
 
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/@nobsagile.
 
