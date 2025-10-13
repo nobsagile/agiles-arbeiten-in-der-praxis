@@ -177,7 +177,7 @@ Lass uns diese zehn „Primitives“ als eine Art „No Bullshit“-Checkliste b
 
 1.  **Iterative Entwicklung:** Du arbeitest in kurzen Zyklen, in denen du planst, umsetzt, testest und lieferst.
 2.  **Inkrementelle Lieferung:** Du lieferst funktionierende Software in kleinen, werthaltigen Teilen aus, so früh und so oft wie möglich. (Übrigens: Nichts im agilen Manifest verbietet es, mitten in einem Sprint zu liefern, wenn etwas fertig und wertvoll ist!)
-3.  **Kontinuierliche Verbesserung (Kaizen):** Du schaust permanent auf deine Produkte *und* deine Prozesse und fragst: „Was können wir besser machen?“ Die Retrospektive ist dafür nur ein Werkzeug, nicht das einzige.
+3.  **Kontinuierliche Verbesserung (Kaizen):** Du schaust permanent auf deine Produkte *und* deine Prozesse und fragst: „Was können wir besser machen?“ und „Wie können wir uns besser organisieren?“. Die Retrospektive ist dafür nur ein Werkzeug, nicht das einzige.
 4.  **Zusammenarbeit mit dem Kunden:** Der Kunde ist ein aktiver Partner im Prozess, nicht nur ein Auftraggeber am Anfang und ein Abnehmer am Ende.
 5.  **Selbstorganisation:** Das Team hat den Freiraum und die Verantwortung, seine eigene Arbeit zu gestalten und zu organisieren.
 6.  **Anpassungsfähigkeit:** Du begrüßt Veränderungen, weil du weißt, dass sie im Neuland unvermeidlich und wertvoll sind. Dein Prozess ist darauf ausgelegt, auf neue Erkenntnisse reagieren zu können.
@@ -190,7 +190,7 @@ Diese zehn Punkte sind das wahre Betriebssystem der Agilität.
 
 ### Das Hausbau-Beispiel: Der Unterschied im Denken
 
-Um noch mehr in die Denkweise für agiles Arbeiten zu kommen, hier ein kleines (wenn auch konstruiertes) Beispiel. Stell dir vor, du baust ein Haus und es geht jetzt darum, die Anzahl und Position der Steckdosen festzulegen. Jetzt hast du drei Möglichkeiten.
+Um noch mehr in die Denkweise für agiles Arbeiten zu kommen, hier ein kleines (wenn auch konstruiertes) Beispiel. Stell dir vor, du baust ein Haus und es geht jetzt darum, die Anzahl und Position der Steckdosen festzulegen. Jetzt hast du drei Möglichkeiten:
 
 *   **Der Wasserfall-Ansatz:** Du erstellst einen detaillierten Plan, wo jede einzelne Steckdose hinkommen soll. Du investierst Wochen in die perfekte Planung, um ja keine Steckdose zu vergessen. Wenn das Haus fertig ist, stellst du unweigerlich fest: „Mist, hier hinter dem Sofa fehlt eine, und die da in der Ecke brauche ich doch nicht.“ Der Plan war perfekt, aber die Realität hat sich geändert.
 *   **Der „Geld-ist-egal“-Ansatz:** Du sagst: „Egal, was es kostet, ich will in jeder Ecke eine Doppelsteckdose.“ Du hast am Ende überall Strom, aber auch viele unnötige Steckdosen, die die Wände verschandeln und Geld gekostet haben.
@@ -204,7 +204,7 @@ Ein Mindset lässt sich nicht einfach per Anweisung einführen. Es muss wachsen.
 
 1.  **Sichere dir die Unterstützung des Managements:** Ohne die Rückendeckung der Führungsebene wirst du immer wieder an Grenzen stoßen. Wenn das Management nicht versteht, warum Agilität mehr ist als nur „Scrum machen“, wird jeder weitere Schritt ein Kampf.
 
-2.  **Bilde eine Gruppe, die für das Thema brennt:** Suche dir Gleichgesinnte aus allen Bereichen des Unternehmens – Management, Entwicklung, Product Owner, Scrum Master, Account Manager. Gründet eine kleine, aber vielfältige Gruppe, eine Art „Tech-Team Agilität“. Die einzige Voraussetzung: Alle in dieser Gruppe müssen für das Thema brennen und es vorantreiben wollen.
+2.  **Bilde eine Gruppe, die für das Thema brennt:** Suche dir Gleichgesinnte aus allen Bereichen des Unternehmens – Management, Entwicklung, Product Owner, Scrum Master, Account Manager. Gründet eine kleine, aber vielfältige Gruppe, eine Art „crossfunktionales Transformationsteam“. Die einzige Voraussetzung: Alle in dieser Gruppe müssen für das Thema brennen und es vorantreiben wollen.
 
 3.  **Schafft ein gemeinsames Fundament:** Die erste Aufgabe dieser Gruppe ist es, sich ein einheitliches und tiefes Verständnis von Agilität zu erarbeiten. Beschäftigt euch intensiv mit dem Manifest und den Prinzipien. Was bedeuten sie konkret für euer Unternehmen? Wo ist Agilität bei euch sinnvoll und wo nicht?
 
