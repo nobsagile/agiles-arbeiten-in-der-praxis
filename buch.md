@@ -14,13 +14,22 @@ Der **dritte Teil** taucht dann tief in die Praxis des agilen Arbeitens ein. Wir
 
 Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu folgender Hinweis: Ich beschreibe Kanban als Methode, da es in seiner Essenz flexibler ist und den hier beschriebenen Kernprinzipien oft näher kommt. Dies ist keine Abwertung von Scrum, sondern ein Plädoyer für einen prinzipienfesten Pragmatismus, den Kanban exemplarisch verkörpert. Alle angesprochenen Themen in den Teilen I bis III sind komplett unabhängig von einer Methode, die agiles Arbeiten implementiert.
 
+## Feedback
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/@nobsagile.
 
+## Version
+Dies ist die Version 1.1.0 des Buchs. 
+
+## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
 
+Vielen Dank an folgende Kontributoren
+- Adrian Salamon
+
+## Lizenz
 Dieses Buch steht unter folgender Lizenz:
 
-Agiles Arbeiten in der Praxis  © 2025 by Thomas Esders is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+Agiles Arbeiten in der Praxis © 2025 by Thomas Esders is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 # Teil I: Das Fundament
@@ -49,7 +58,7 @@ Gehen wir die vier Werte des Manifests durch und was sie für deine tägliche Ar
 
 **1. Individuen und Interaktionen mehr als Prozesse und Werkzeuge**
 
-Natürlich sind Prozesse und Werkzeuge wichtig. Sie geben Struktur und Unterstützung. Aber du solltest dich niemals hinter ihnen verstecken. Anstatt dich im stillen Kämmerlein stur an einen Prozess oder die Vorgaben eines Tools zu halten, sprich lieber direkt mit deinen Kolleg. Die direkte Interaktion zwischen Menschen ist entscheidend, um Herausforderungen zu lösen und wirklich gute Software zu entwickeln.
+Natürlich sind Prozesse und Werkzeuge wichtig. Sie geben Struktur und Unterstützung. Aber du solltest dich niemals hinter ihnen verstecken. Anstatt dich im stillen Kämmerlein stur an einen Prozess oder die Vorgaben eines Tools zu halten, sprich lieber direkt mit deinen Kollegen. Die direkte Interaktion zwischen Menschen ist entscheidend, um Herausforderungen zu lösen und wirklich gute Software zu entwickeln.
 
 **2. Funktionierende Software mehr als umfassende Dokumentation**
 
@@ -103,7 +112,7 @@ Lass diesen Satz auf dich wirken. Dein Fortschritt wird nicht an der "Velocity" 
 
 **8. Agile Prozesse fördern nachhaltige Entwicklung. Die Auftraggeber, Entwickler und Benutzer sollten ein gleichmäßiges Tempo auf unbegrenzte Zeit halten können.**
 
-Viele Menschen assoziieren "agil" fälschlicherweise mit "schnell". Doch agil bedeutet "beweglich". Es geht nicht darum, in Sprints zu hetzen. Deine Arbeit sollte eher einem Dauerlauf oder einem entspannten Spaziergang gleichen. Das Ziel ist ein gleichmäßiges, nachhaltiges Tempo, das alle Beteiligten auf unbegrenzte Zeit durchhalten können, ohne auszubrennen. Diese Rhythmik erlaubt auch, unnötigen Schwierigkeiten auszuweichen und unvermeidbaren Schwierigkeiten gezielt zu begegenen.
+Viele Menschen assoziieren "agil" fälschlicherweise mit "schnell". Doch agil bedeutet "beweglich". Es geht nicht darum, in Sprints zu hetzen. Deine Arbeit sollte eher einem Dauerlauf oder einem entspannten Spaziergang gleichen. Das Ziel ist ein gleichmäßiges, nachhaltiges Tempo, das alle Beteiligten auf unbegrenzte Zeit durchhalten können, ohne auszubrennen.
 
 **9. Ständiges Augenmerk auf technische Exzellenz und gutes Design fördert Agilität.**
 
@@ -204,7 +213,7 @@ Ein Mindset lässt sich nicht einfach per Anweisung einführen. Es muss wachsen.
 
 1.  **Sichere dir die Unterstützung des Managements:** Ohne die Rückendeckung der Führungsebene wirst du immer wieder an Grenzen stoßen. Wenn das Management nicht versteht, warum Agilität mehr ist als nur „Scrum machen“, wird jeder weitere Schritt ein Kampf.
 
-2.  **Bilde eine Gruppe, die für das Thema brennt:** Suche dir Gleichgesinnte aus allen Bereichen des Unternehmens – Management, Entwicklung, Product Owner, Scrum Master, Account Manager. Gründet eine kleine, aber vielfältige Gruppe, eine Art „crossfunktionales Transformationsteam“. Die einzige Voraussetzung: Alle in dieser Gruppe müssen für das Thema brennen und es vorantreiben wollen.
+2.  **Bilde eine Gruppe, die für das Thema brennt:** Suche dir Gleichgesinnte aus allen Bereichen des Unternehmens – Management, Entwicklung, Product Owner, Scrum Master, Account Manager. Gründet eine kleine, aber vielfältige Gruppe, eine Art „Tech-Team Agilität“. Die einzige Voraussetzung: Alle in dieser Gruppe müssen für das Thema brennen und es vorantreiben wollen.
 
 3.  **Schafft ein gemeinsames Fundament:** Die erste Aufgabe dieser Gruppe ist es, sich ein einheitliches und tiefes Verständnis von Agilität zu erarbeiten. Beschäftigt euch intensiv mit dem Manifest und den Prinzipien. Was bedeuten sie konkret für euer Unternehmen? Wo ist Agilität bei euch sinnvoll und wo nicht?
 
