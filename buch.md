@@ -23,7 +23,8 @@ Dies ist die Version 1.1.0 des Buchs.
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
 
-Vielen Dank an folgende Kontributoren
+Vielen Dank an folgende Kontributoren:
+
 - Adrian Salamon
 
 ## Lizenz
