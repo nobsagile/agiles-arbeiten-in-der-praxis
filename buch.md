@@ -1,8 +1,6 @@
 # Vorwort
 
-Noch ein Buch über agiles Arbeiten? Das war auch meine erste Reaktion, als in mir die Idee aufkam. Und doch habe ich es geschrieben. Nach guten 80 Folgen meines Podcasts "No Bullshit Agile"[^1] hatte ich einfach das Gefühl, dass ich die Themen, die ich dort besprochen habe, noch einmal in ein geordnetes Format bringen möchte. 
-
-[^1]: Podcast: https://no-bullshit-agile.de
+Noch ein Buch über agiles Arbeiten? Das war auch meine erste Reaktion, als in mir die Idee aufkam. Und doch habe ich es geschrieben. Nach guten 80 Folgen meines Podcasts "No Bullshit Agile"[@nba_podcast_2025] hatte ich einfach das Gefühl, dass ich die Themen, die ich dort besprochen habe, noch einmal in ein geordnetes Format bringen möchte. 
 
 Wie auch im Podcast geht es mir darum, agiles Arbeiten in seinem Fundament zu erklären und mit vielen Missverständnissen und Mythen aufzuräumen, denen ich zum Teil auch aufgesessen bin und die mir heute immer noch oft begegnen. Dieses Buch bündelt meine 20+ Jahre Erfahrung im (nicht immer) agilen Arbeiten gemeinsam mit Teams und Kunden einzubringen.
 
@@ -15,10 +13,10 @@ Der **dritte Teil** taucht dann tief in die Praxis des agilen Arbeitens ein. Wir
 Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu folgender Hinweis: Ich beschreibe Kanban als Methode, da es in seiner Essenz flexibler ist und den hier beschriebenen Kernprinzipien oft näher kommt. Dies ist keine Abwertung von Scrum, sondern ein Plädoyer für einen prinzipienfesten Pragmatismus, den Kanban exemplarisch verkörpert. Alle angesprochenen Themen in den Teilen I bis III sind komplett unabhängig von einer Methode, die agiles Arbeiten implementiert.
 
 ## Feedback
-Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/@nobsagile.
+Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 1.1.0 des Buchs. 
+Dies ist die Version 1.2.0 des Buchs. 
 
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
@@ -47,9 +45,7 @@ Du kennst das agile Manifest wahrscheinlich. Aber ganz ehrlich: Wann hast du es 
 
 #### Die Entstehung des Manifests
 
-Stell dir vor: Im Jahr 2001 treffen sich 17 Menschen, schließen sich ein Wochenende lang ein und diskutieren über die Entwicklung von Software. Damals gewannen Methoden wie Scrum, Extreme Programming oder Crystal Clear an Popularität. Diese Gruppe wollte herausfinden, was diese unterschiedlichen Ansätze verbindet und ob man sie auf ein gemeinsames Fundament stellen kann. Das Ergebnis dieser Diskussion war das „Manifest für Agile Softwareentwicklung“[^2].
-
-[^2]: Agiles Manifest: https://agilemanifesto.org/iso/de/manifesto.html
+Stell dir vor: Im Jahr 2001 treffen sich 17 Menschen, schließen sich ein Wochenende lang ein und diskutieren über die Entwicklung von Software. Damals gewannen Methoden wie Scrum, Extreme Programming oder Crystal Clear an Popularität. Diese Gruppe wollte herausfinden, was diese unterschiedlichen Ansätze verbindet und ob man sie auf ein gemeinsames Fundament stellen kann. Das Ergebnis dieser Diskussion war das „Manifest für Agile Softwareentwicklung“[@noauthor_manifest_nodate].
 
 Sie einigten sich darauf, dass es darum geht, bessere Wege zu finden, um Software zu entwickeln. Dieses Ziel haben sie in vier zentralen Kernwerten zusammengefasst, die jeweils zwei Aspekte gegenüberstellen.
 
@@ -79,9 +75,7 @@ Bei all diesen Vergleichen ist eines ganz entscheidend: Die Aspekte auf der rech
 
 ### 12 Agile Prinzipien
 
-Die 17 Autoren haben es damals nicht bei den vier Kernwerten belassen. Sie haben das Manifest mit zwölf Prinzipien[^3] konkretisiert, um es greifbarer und im Alltag anwendbar zu machen. Schauen wir mal rein.
-
-[^3]: 12 agile Prinzipien: https://agilemanifesto.org/iso/de/principles.html
+Die 17 Autoren haben es damals nicht bei den vier Kernwerten belassen. Sie haben das Manifest mit zwölf Prinzipien[@noauthor_prinzipien_nodate] konkretisiert, um es greifbarer und im Alltag anwendbar zu machen. Schauen wir mal rein.
 
 **1. Unsere höchste Priorität ist es, den Kunden durch frühe und kontinuierliche Auslieferung wertvoller Software zufriedenzustellen.**
 
@@ -179,9 +173,7 @@ Wenn bei dir im Team die Frage aufkommt „Warum funktioniert Scrum bei uns nich
 
 ### Die „Agile Primitives“: Der Baukasten, auf den es wirklich ankommt
 
-Wenn es also nicht die Methode ist, was ist es dann? Wenn 'Mindset' das 'Warum' ist, was sind dann die fundamentalen Bausteine des 'Wie', die unabhängig von Scrum oder Kanban immer gelten müssen? Stefan Wolpers hat dafür einen brillanten Begriff geprägt: die **„Agile Primitives“**[^4]. Das sind die fundamentalen, unteilbaren Bausteine, die den Kern jeder echten agilen Arbeitsweise ausmachen – unabhängig von einem spezifischen Framework. Wenn du diese Prinzipien lebst, bist du agil, egal ob du Scrum, Kanban oder gar keine benannte Methode nutzt.
-
-[^4]: Blogpost Agile Primitives: https://age-of-product.com/agile-primitives-beyond-frameworks/
+Wenn es also nicht die Methode ist, was ist es dann? Wenn 'Mindset' das 'Warum' ist, was sind dann die fundamentalen Bausteine des 'Wie', die unabhängig von Scrum oder Kanban immer gelten müssen? Stefan Wolpers hat dafür einen brillanten Begriff geprägt: die **„Agile Primitives“**[@wolpers_agile_2024]. Das sind die fundamentalen, unteilbaren Bausteine, die den Kern jeder echten agilen Arbeitsweise ausmachen – unabhängig von einem spezifischen Framework. Wenn du diese Prinzipien lebst, bist du agil, egal ob du Scrum, Kanban oder gar keine benannte Methode nutzt.
 
 Lass uns diese zehn „Primitives“ als eine Art „No Bullshit“-Checkliste betrachten:
 
@@ -317,9 +309,7 @@ Wenn Unternehmen scheitern, liegt das meist an zwei Mustern:
 
 2.  **Dark Agile:** Dieses Muster ist noch schlimmer. Hier wird eine agile Methode wie Scrum ganz bewusst als Deckmantel benutzt. Nach außen hin gibt man sich modern und agil, aber intern nutzt das Management die Strukturen, um weiterhin top-down zu steuern, zu kontrollieren und im Grunde wasserfallartig zu arbeiten. Für die Mitarbeiter in einem solchen Umfeld ist das extrem frustrierend, weil sie in einem System gefangen sind, das Agilität verspricht, aber Kontrolle lebt.
 
-Dazu kommt eine dritte Säule, die das Ganze befeuert: die **Kommerzialisierung**. Eine wahre Flut an Zertifikaten und Coaching-Angeboten hat den Markt überschwemmt. Um immer neue Produkte verkaufen zu können, werden agile Ansätze mit immer mehr Komplexität überladen (Beispiel: SAFe[^5]). Das ursprüngliche, schlanke Fundament geht dabei völlig verloren.
-
-[^5]: SAFe Framework: https://en.wikipedia.org/wiki/Scaled_agile_framework
+Dazu kommt eine dritte Säule, die das Ganze befeuert: die **Kommerzialisierung**. Eine wahre Flut an Zertifikaten und Coaching-Angeboten hat den Markt überschwemmt. Um immer neue Produkte verkaufen zu können, werden agile Ansätze mit immer mehr Komplexität überladen (Beispiel: SAFe[@noauthor_scaled_2025]). Das ursprüngliche, schlanke Fundament geht dabei völlig verloren.
 
 Diese Muster sind die direkte Folge, wenn Unternehmen versuchen, nur die Spitze des agilen Eisbergs zu kopieren.
 
@@ -415,9 +405,7 @@ Stelle dir mit dieser Brille einmal folgende Fragen:
 *   **Refinement:** Dient das Refinement dazu, uns die Arbeit möglichst einfach zu machen? Oder dazu, das nächste Inkrement so zu schneiden, dass es mit dem geringsten Aufwand den maximalen ökonomischen Wert für den Kunden erzeugt?
 *   **Eine Story oder ein Inkrement:** Wenn du das nächste Feature planst, frage dich: Wie viel Wert in Euro steckt wirklich in dem, was du hier lieferst? Kannst du diesen Wert maximieren, indem du es anders schneidest oder etwas anderes priorisierst?
 
-Jeff Sutherland, einer der Scrum-Erfinder, fasst es so in seinem Buch "Scrum: The Art of Doing Twice the Work in Half the Time"[^6] zusammen: „Figure out where the most value can be delivered for the least effort and do that one right away.“ (Finde heraus, wo der meiste Wert mit dem geringsten Aufwand geliefert werden kann, und erledige genau das sofort.)
-
-[^6]: Buch: Scrum - The Art of Doing Twice the Work in Half the Time: https://www.amazon.de/Scrum-Doing-Twice-Work-Half/dp/1847941109
+Jeff Sutherland, einer der Scrum-Erfinder, fasst es so in seinem Buch "Scrum: The Art of Doing Twice the Work in Half the Time"[@sutherland_scrum:_2024] zusammen: „Figure out where the most value can be delivered for the least effort and do that one right away.“ (Finde heraus, wo der meiste Wert mit dem geringsten Aufwand geliefert werden kann, und erledige genau das sofort.)
 
 Dieses Gedankenexperiment soll bewusst schwarz-weiß malen, um eine Diskussion anzustoßen. Aber ich glaube fest daran: Wenn wir verstehen, *warum* wir agil arbeiten – nämlich um unseren Kunden im Wettbewerb zu helfen –, können wir unsere Methoden und Prinzipien viel gezielter und effektiver einsetzen. Es gibt all unseren agilen Zeremonien einen tieferen, ökonomischen Sinn.
 
@@ -567,11 +555,7 @@ Wir haben gesehen: Selbstorganisation ist ein Balanceakt. Im nächsten Kapitel s
 
 Im letzten Kapitel haben wir festgestellt, dass Selbstorganisation klare Leitplanken braucht, um nicht im Chaos zu enden. Das wirft sofort die entscheidende Frage auf: Wie definierst du diese Leitplanken gemeinsam mit deinem Team, ohne in alte Top-Down-Muster zu verfallen? Wie schaffst du Klarheit darüber, wer welche Entscheidungen trifft?
 
-Die Antwort ist ein ebenso einfaches wie wirkungsvolles Werkzeug: **Delegation Poker**[^7], entwickelt von Jürgen Appelo. Es ist ein spielerischer Workshop, der dir und deinem Team hilft, die Graustufen zwischen „Der Chef entscheidet alles“ und „Das Team entscheidet alles“ sichtbar und verhandelbar zu machen.
-
-[^7]: Delegation Poker: https://management30.com/practice/delegation-poker/
-
-
+Die Antwort ist ein ebenso einfaches wie wirkungsvolles Werkzeug: **Delegation Poker**[@noauthor_delegation_nodate], entwickelt von Jürgen Appelo. Es ist ein spielerischer Workshop, der dir und deinem Team hilft, die Graustufen zwischen „Der Chef entscheidet alles“ und „Das Team entscheidet alles“ sichtbar und verhandelbar zu machen.
 
 ### Mehr als nur Schwarz und Weiß: Die sieben Stufen der Delegation
 
@@ -740,9 +724,7 @@ Der Unterschied ist gewaltig. Bei Konsent muss niemand eine Entscheidung zu 100 
 
 #### 2. Für komplexe Probleme: Die Sechs Denkhüte (Six Hats)
 
-Für wirklich komplexe und wichtige Entscheidungen, bei denen viele Perspektiven eine Rolle spielen, ist die Methode der Sechs Denkhüte[^8] unschlagbar. Sie zwingt das Team, ein Problem systematisch aus sechs verschiedenen Blickwinkeln zu betrachten. Jeder im Team setzt symbolisch nacheinander die gleichen „Hüte“ auf:
-
-[^8]: Six Hats https://en.wikipedia.org/wiki/Six_Thinking_Hats
+Für wirklich komplexe und wichtige Entscheidungen, bei denen viele Perspektiven eine Rolle spielen, ist die Methode der Sechs Denkhüte[@noauthor_six_2025] unschlagbar. Sie zwingt das Team, ein Problem systematisch aus sechs verschiedenen Blickwinkeln zu betrachten. Jeder im Team setzt symbolisch nacheinander die gleichen „Hüte“ auf:
 
 *   **Weißer Hut (Analytisch):** Wir betrachten nur die Fakten und Daten. Was wissen wir? Was fehlt uns?
 *   **Roter Hut (Emotional):** Wir äußern nur Gefühle und Intuitionen, ohne Rechtfertigung. Wie fühlt sich diese Option an?
@@ -787,10 +769,7 @@ Im letzten Kapitel haben wir darüber gesprochen, wie Teams Entscheidungen treff
 
 Fehler passieren. Das ist keine Meinung, sondern eine Tatsache. Bugs schleichen sich in den Code, Annahmen erweisen sich als falsch, Entscheidungen führen in eine Sackgasse. Das ist normal, denn wir sind Menschen, die in einem komplexen Umfeld arbeiten. Die entscheidende Frage ist nicht, *ob* Fehler passieren, sondern *wie* wir als Team darauf reagieren.
 
-Jocko Willink[^9], ein hochdekorierter Ex-Navy-Seal und heutiger Führungscoach, hat dazu eine radikale, aber extrem wirkungsvolle Haltung populär gemacht. Wenn etwas schiefläuft – ein Projekt scheitert, ein Test fehlschlägt, ein Plan sich als falsch erweist –, ist seine instinktive Reaktion ein einziges Wort: „Good.“ (Gut.)
-
-[^9]: Jocko Willink: https://en.wikipedia.org/wiki/Jocko_Willink
-
+Jocko Willink[@noauthor_jocko_2025], ein hochdekorierter Ex-Navy-Seal und heutiger Führungscoach, hat dazu eine radikale, aber extrem wirkungsvolle Haltung populär gemacht. Wenn etwas schiefläuft – ein Projekt scheitert, ein Test fehlschlägt, ein Plan sich als falsch erweist –, ist seine instinktive Reaktion ein einziges Wort: „Good.“ (Gut.)
 
 
 *   Unerwartete Probleme? **Gut.** Das gibt uns die Chance, eine robuste Lösung zu finden.
@@ -828,9 +807,7 @@ Peer Feedback ist am Anfang ungewohnt und erfordert Mut. Aber es ist eine der be
 
 ### Kollektives Wissen: Das Open Space
 
-Während Peer Feedback das individuelle Lernen fördert, zielt der **Open Space**[^10] auf den selbstorganisierten Wissensaustausch im gesamten Team oder sogar im ganzen Unternehmen. Es ist wie ein internes Barcamp: dezentral, von den Teilnehmern gestaltet und extrem dynamisch.
-
-[^10]: Open Space: https://de.wikipedia.org/wiki/Open_Space
+Während Peer Feedback das individuelle Lernen fördert, zielt der **Open Space**[@noauthor_open_2024] auf den selbstorganisierten Wissensaustausch im gesamten Team oder sogar im ganzen Unternehmen. Es ist wie ein internes Barcamp: dezentral, von den Teilnehmern gestaltet und extrem dynamisch.
 
 Ein Open Space bricht mit der starren Struktur klassischer Konferenzen. Es gibt nur wenige, aber wichtige Regeln. Die wichtigste ist das **Gesetz der zwei Füße**: „Wenn du merkst, dass du in einer Session weder etwas lernst noch etwas beitragen kannst, nutze deine zwei Füße und gehe woanders hin.“ Das ist keine Unhöflichkeit, sondern Selbstverantwortung.
 
@@ -922,9 +899,7 @@ Wir verlassen jetzt die Ebene des Teams und blicken auf die Führung von Teams u
 
 Führung im agilen Umfeld ist ein Paradox. Einerseits fordern wir **selbstorganisierte Teams**, die autonom agieren und Entscheidungen treffen. Andererseits wissen wir, dass Teams ohne Führung ins Chaos stürzen können, besonders wenn der Druck steigt. Wie löst man diesen Widerspruch auf? Wann hältst du dich, wenn du in einer führenden Rolle bist, zurück und wann musst du eingreifen?
 
-Die Antwort lautet: Es gibt nicht den *einen* richtigen Führungsstil. Effektive agile Führung ist nicht starr, sondern elastisch. Sie passt sich an die jeweilige Situation und den Reifegrad des Teams an. Das Konzept des **Elastic Leadership**, geprägt durch das gleichnamige Buch[^11] von Roy Osherove, gibt dir dafür ein klares mentales Modell an die Hand. Es hat mir persönlich die Augen geöffnet, als mein eigenes Team in einer schwierigen Phase steckte und ich unsicher war, wie ich führen sollte, ohne die Selbstorganisation zu untergraben.
-
-[^11]: Buch Elastic Leadership: https://www.amazon.de/Elastic-Leadership-Growing-self-organizing-teams/dp/1617293083
+Die Antwort lautet: Es gibt nicht den *einen* richtigen Führungsstil. Effektive agile Führung ist nicht starr, sondern elastisch. Sie passt sich an die jeweilige Situation und den Reifegrad des Teams an. Das Konzept des **Elastic Leadership**, geprägt durch das gleichnamige Buch[@osherove_elastic_2017] von Roy Osherove, gibt dir dafür ein klares mentales Modell an die Hand. Es hat mir persönlich die Augen geöffnet, als mein eigenes Team in einer schwierigen Phase steckte und ich unsicher war, wie ich führen sollte, ohne die Selbstorganisation zu untergraben.
 
 Die Kernidee ist einfach: Jedes Team durchläuft verschiedene Phasen, und jede Phase erfordert einen anderen Führungsstil von dir.
 
@@ -1619,9 +1594,7 @@ In diesem Teil zeige ich dir, wie du mit Kanban startest, es an dein Team anpass
 
 Du willst Kanban einsetzen, ohne dich erst durch dicke Fachbücher zu wühlen? Dann ist dieses Kapitel dein Startpunkt. Wir bauen jetzt gemeinsam dein erstes, funktionierendes Kanban-System. Es basiert auf vier einfachen, aber fundamentalen Schritten, die den Fokus sofort vom Abarbeiten einer To-Do-Liste auf das Schaffen eines reibungslosen Arbeitsflusses verlagern. Der zentrale Leitgedanke dabei lautet: **Hört auf, neue Arbeit anzufangen, und fangt an, angefangene Arbeit fertigzustellen.**
 
-Dieses Kapitel gibt dir alles an die Hand, was du für den Start brauchst. Für eine noch tiefere Ausführung habe ich auch einen detaillierten Kanban Starter Guide[^12] geschrieben, den du als Begleitung nutzen kannst.
-
-[^12]: Kanban Starter Guide: https://no-bullshit-agile.de/no-bullshit-kanban-guide.html
+Dieses Kapitel gibt dir alles an die Hand, was du für den Start brauchst. Für eine noch tiefere Ausführung habe ich auch einen detaillierten Kanban Starter Guide[@nba_starter_guide_2025] geschrieben, den du als Begleitung nutzen kannst.
 
 ![Kanban Starter Guide](assets/kanbanstarterguide.png)
 
@@ -1658,9 +1631,7 @@ Warum um alles in der Welt solltest du die Menge der Arbeit künstlich begrenzen
 - **Massive Kontextwechsel:** Multitasking ist ein Mythos. Ständige Wechsel zwischen Aufgaben können die Produktivität um bis zu 40 % senken und führen zu enormen Reibungsverlusten.
 - **Sinkende Qualität:** Wer viele Bälle gleichzeitig in der Luft hält, macht alles nur so ein bisschen. Fehler schleichen sich ein, die später teuer zu beheben sind.
 - **Verdeckte Engpässe:** Wenn alle "beschäftigt" sind und viele Aufgaben in Arbeit sind, erkennt niemand, wo der Prozess wirklich stockt.
-- **Verlängerte Durchlaufzeiten:** Hier greift ein mathematisches Prinzip namens **Little’s Law** (ein mathematisches Gesetz, das vereinfacht besagt: Je mehr Dinge gleichzeitig in Arbeit sind, desto länger dauert es, bis ein einzelnes davon fertig wird)[^13]: Je mehr Dinge du gleichzeitig anfängst, desto länger dauert es, bis *irgendetwas* davon fertig wird.
-
-[^13]: Little's law: https://en.wikipedia.org/wiki/Little%27s_law
+- **Verlängerte Durchlaufzeiten:** Hier greift ein mathematisches Prinzip namens **Little’s Law** (ein mathematisches Gesetz, das vereinfacht besagt: Je mehr Dinge gleichzeitig in Arbeit sind, desto länger dauert es, bis ein einzelnes davon fertig wird)[@noauthor_littles_2025]: Je mehr Dinge du gleichzeitig anfängst, desto länger dauert es, bis *irgendetwas* davon fertig wird.
 
 WiP-Limits sind der Mechanismus, der ein echtes **Pull-System** erzwingt. Neue Arbeit wird erst dann "gezogen", wenn Kapazität frei wird. Sie zwingen das Team zu Fokus, Kollaboration und dem Abschluss angefangener Arbeit.
 
@@ -1776,9 +1747,8 @@ Aber du spürst es bereits: Echte Wertschöpfung hört nicht am Ufer deiner Inse
 
 Willkommen auf der nächsten Stufe. Wir zoomen jetzt raus. Wir verlassen die Insel und betrachten die gesamte Reise der Arbeit – vom ersten Funken einer Idee bis zum Feedback des glücklichen Kunden.
 
-Auch hierzu habe ich bereits einen ausführlichen Kanban Advanced Guide[^14] geschrieben.
+Auch hierzu habe ich bereits einen ausführlichen Kanban Advanced Guide[@nba_advanced_guide_2025] geschrieben.
 
-[^14]: Kanban Advanced Guide: https://no-bullshit-agile.de/no-bullshit-kanban-advanced-guide.html
 
 ![Kanban Advanced Guide](assets/kanbanadvancedguide.png)
 
@@ -1899,3 +1869,7 @@ Lass dich nicht vom Hype ins Bockhorn jagen. KI wird unsere Arbeit verändern, s
 Aber sie ersetzt nicht die fundamentalen Prinzipien, die in diesem Buch beschrieben sind. In einer Welt, die durch KI noch schneller und unvorhersehbarer wird, sind die Kernideen der Agilität – kurze Feedbackzyklen, Anpassungsfähigkeit, Kundenfokus und menschliche Zusammenarbeit – nicht weniger, sondern **noch wichtiger** als je zuvor.
 
 Die Zukunft gehört nicht den Teams, die sich von KI ersetzen lassen. Sie gehört den Teams, die KI klug als Werkzeug nutzen, um ihr agiles Spiel auf das nächste Level zu heben.
+
+# Literaturverzeichnis
+::: {#refs}
+:::
