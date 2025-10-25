@@ -16,7 +16,7 @@ Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu fo
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 1.2.0 des Buchs. 
+Dies ist die Version 1.3.0 des Buchs. 
 
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
@@ -24,6 +24,8 @@ Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbe
 Vielen Dank an folgende Kontributoren:
 
 - Adrian Salamon
+- Marco von SCRUMSchau
+- Sebastian
 
 ## Lizenz
 Dieses Buch steht unter folgender Lizenz:
@@ -160,6 +162,31 @@ Genau für dieses Umfeld – das Unbekannte – wurde Agilität geschaffen. Sie 
 *   Feedback brauchen, um zu überprüfen, ob unsere Ideen funktionieren.
 
 Agilität ist also die Antwort auf Projekte, bei denen der Weg und das Ziel nicht von Anfang an glasklar sind. Sie ist nicht per se „schnell“, sondern „beweglich“ (*agile*). Sie ist das relativ schnellste Vorgehen in einem unbekannten Umfeld, weil sie durch ständiges Lernen und Anpassen Verschwendung (*Waste*) vermeidet.
+
+### Ein Modell zur Orientierung: Die Stacey Matrix
+
+Dieser intuitive Unterschied zwischen der Arbeit am Fließband und der Erkundung von Neuland hat einen Namen und ein Modell: die **Stacey Matrix** von Ralph D. Stacey[@stacey_2025]. Sie ist ein geniales Werkzeug, um zu verstehen, welche Art von Arbeit du vor dir hast und welcher Lösungsansatz dafür am besten geeignet ist.
+
+Die Matrix spannt sich über zwei Achsen auf:
+
+* **Die vertikale Achse (Das Was)**: Wie klar sind die **Anforderungen**? Wie einig sind wir uns (Team, Kunde, Stakeholder) darüber, was am Ende herauskommen soll? Die Skala reicht von „nah an der Gewissheit“ bis „weit entfernt von Gewissheit“.
+* **Die horizontale Achse (Das Wie)**: Wie klar ist der **Lösungsweg** oder die Technologie? Wissen wir genau, mit welchen Schritten und Werkzeugen wir das Ziel erreichen? Die Skala reicht von „nah an der Gewissheit“ bis „weit entfernt von Gewissheit“.
+
+Daraus ergeben sich vier Hauptdomänen:
+
+![Stacey Matrix](assets/stacey.png)
+
+* **Einfach (Simple)**: Unten links. Die Anforderungen sind klar, der Lösungsweg ist bekannt. Das ist dein VW Golf vom Fließband oder Backen nach Rezept. Hier brauchst du kein agiles Vorgehen. Ein klassischer Plan (Wasserfall) ist effizient und absolut ausreichend. Man spricht hier auch von "Best Practice".
+* **Kompliziert (Complicated)**: In der Mitte. Die Anforderungen sind relativ klar, aber der Lösungsweg erfordert Expertenwissen und Analyse. Der Bau einer Brücke oder die Reparatur eines Uhrwerks fällt hierunter. Auch hier sind klassische Projektmanagement-Methoden oft noch gut geeignet, da das Problem durch Analyse lösbar bleibt. Man spricht hier von "Good Practice".´
+* **Komplex (Complex)**: Oben rechts. Sowohl die Anforderungen als auch der Lösungsweg sind unklar. Das ist das **Neuland** der Softwareentwicklung. Wir wissen am Anfang nicht genau, was der Kunde am Ende wirklich braucht, und wir wissen nicht, welche technischen Hürden auf dem Weg lauern. **Genau hier, im komplexen Bereich, ist Agilität zu Hause**. Hier können wir nicht planen, wir müssen entdecken – durch kurze Zyklen, Experimente und schnelles Feedback.
+* **Chaotisch (Chaotic)**: Ganz oben rechts. Hier herrscht pures Chaos – ein Produktionsserver brennt, eine schwere Krise tritt ein. Es gibt keine Zeit für Pläne oder Experimente. Das einzige Ziel ist, sofort zu handeln und die Situation zu stabilisieren.
+
+Die Stacey Matrix zeigt schonungslos, warum der Versuch, komplexe Softwareprojekte mit den Methoden aus der "einfachen" oder "komplizierten" Welt zu managen, zum Scheitern verurteilt ist. Es ist der Versuch, eine unbekannte Landschaft mit einer perfekten, vorher gezeichneten Karte zu durchqueren. Das kann nicht funktionieren.
+
+Wenn du also feststellst, dass du und dein Team sich die meiste Zeit im komplexen Feld bewegt, dann ist die Frage nicht *ob* ihr agil arbeiten solltet, sondern nur noch *wie*.
+
+Hinweis: Die Stacey Matrix ist ein einfaches, aber extrem wirkungsvolles Modell, um diese Unterscheidung zu treffen. Ein weiteres, noch tiefergehendes Framework in diesem Bereich ist das Cynefin Framework[@cynefin_2025] von Dave Snowden, das uns lehrt, Probleme erst zu klassifizieren, bevor wir handeln. Schau hier gerne in den verlinkten Wikipedia Artikel, wenn du tiefer buddeln möchtest.
+
 
 ### Das Fundament: Mehr als nur Regeln und Werkzeuge
 
