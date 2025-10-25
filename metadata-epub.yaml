@@ -1,0 +1,21 @@
+---
+title: "Agiles Arbeiten in der Praxis"
+subtitle: "Agilität wirksam machen – Ein praxisorientierter Leitfaden"
+author: "Thomas Esders"
+date: "2025-10-04" # ISO-Format ist für ePub oft stabiler
+lang: "de-DE"
+subject: "Ein praxisnaher Leitfaden für ehrliches agiles Arbeiten"
+keywords: "Agile, Scrum, Kanban, Softwareentwicklung, Projektmanagement, Teamführung, Selbstorganisation, Agiles Manifest"
+rights: "© 2025 Thomas Esders. Alle Rechte vorbehalten."
+bibliography: ./literatur.bib
+csl: ./chicago-shortened-notes-bibliography.csl
+link-citations: true
+link-bibliography: true
+refs: |
+   ::: {#refs}
+   :::
+# --- EPUB SPEZIFISCHE OPTIONEN ---
+cover-image: "assets/cover-epub.jpg" # WICHTIG: Pfad zu deinem Coverbild (z.B. 1600x2400px JPG)
+...
+
+

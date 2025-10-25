@@ -1,0 +1,43 @@
+---
+title: "Agiles Arbeiten in der Praxis"
+subtitle: "Agilität wirksam machen – Ein praxisorientierter Leitfaden"
+author: "Thomas Esders"
+date: "Oktober 2025"
+lang: "de-DE"
+subject: "Ein praxisnaher Leitfaden für ehrliches agiles Arbeiten"
+keywords:
+  - "Agile"
+  - "Scrum"
+  - "Kanban"
+  - "Softwareentwicklung"
+  - "Projektmanagement"
+  - "Teamführung"
+  - "Selbstorganisation"
+  - "Agiles Manifest"
+
+bibliography: ./literatur.bib
+csl: ./chicago-shortened-notes-bibliography.csl
+link-citations: true
+link-bibliography: true
+refs: |
+   ::: {#refs}
+   :::
+
+
+header-includes: |
+  \raggedbottom
+
+# Eisvogel template options
+titlepage: true
+titlepage-background: "assets/background.pdf"
+titlepage-text-color: "ffffff"
+titlepage-rule-height: 0
+titlepage-rule-color: "3A3A3A"
+logo: "assets/logo.png"
+toc-own-page: true
+lof: true
+book: true
+#classoption: oneside
+geometry: margin=2.5cm
+...
+
