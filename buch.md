@@ -16,7 +16,7 @@ Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu fo
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 1.3.0 des Buchs. 
+Dies ist die Version 1.4.0 des Buchs. 
 
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
@@ -47,9 +47,9 @@ Du kennst das agile Manifest wahrscheinlich. Aber ganz ehrlich: Wann hast du es 
 
 #### Die Entstehung des Manifests
 
-Stell dir vor: Im Jahr 2001 treffen sich 17 Menschen, schließen sich ein Wochenende lang ein und diskutieren über die Entwicklung von Software. Damals gewannen Methoden wie Scrum, Extreme Programming oder Crystal Clear an Popularität. Diese Gruppe wollte herausfinden, was diese unterschiedlichen Ansätze verbindet und ob man sie auf ein gemeinsames Fundament stellen kann. Das Ergebnis dieser Diskussion war das „Manifest für Agile Softwareentwicklung“[@noauthor_manifest_nodate].
+Stell dir vor: Im Jahr 2001, als schwerfällige Prozesse die Softwareentwicklung dominierten, gewannen leichtgewichtige Alternativen an Popularität. Dazu zählten vor allem Scrum[@sutherland_scrum:_2024], maßgeblich geprägt von Ken Schwaber[@noauthor_ken_2025] und Jeff Sutherland[@noauthor_jeff_2025], Extreme Programming (XP)[@beck_extreme_2012] von Vordenkern wie Kent Beck[@noauthor_kent_2025] und Robert C. Martin[@noauthor_robert_2025], sowie die Crystal-Methodenfamilie[@cockburn_crystal_2005] von Alistair Cockburn[@noauthor_alistair_2025].
 
-Sie einigten sich darauf, dass es darum geht, bessere Wege zu finden, um Software zu entwickeln. Dieses Ziel haben sie in vier zentralen Kernwerten zusammengefasst, die jeweils zwei Aspekte gegenüberstellen.
+Genau die Vertreter dieser Strömungen – insgesamt 17 Pioniere – trafen sich im Februar 2001 in einem Ski-Resort in Utah. Sie wollten herausfinden, was ihre unterschiedlichen Ansätze im Kern verbindet und ob sie diese auf ein gemeinsames Fundament stellen können. Das Ergebnis dieser Diskussion war das „Manifest für Agile Softwareentwicklung“[@noauthor_manifest_nodate]
 
 #### Die vier Kernwerte im Detail
 
