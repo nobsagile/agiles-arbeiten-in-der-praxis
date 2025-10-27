@@ -16,7 +16,7 @@ Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu fo
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 2.0.0 des Buchs. 
+Dies ist die Version 2.1.0 des Buchs. 
 
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
