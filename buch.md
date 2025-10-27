@@ -16,7 +16,7 @@ Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu fo
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 1.5.0 des Buchs. 
+Dies ist die Version 2.0.0 des Buchs. 
 
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
@@ -500,13 +500,48 @@ Nachdem du die Grundlagen gemeistert hast, beginnst du, die Regeln zu hinterfrag
 **3. Ri – Verlassen/Übertreffen:**
 In der letzten Phase erreichst du die Meisterschaft. Du hast die Prinzipien so tief verinnerlicht, dass du dich von den ursprünglichen Regeln lösen kannst. Du entwickelst eigene, innovative Praktiken, die perfekt zu deinem Team und deinem Kontext passen. Du bist nicht mehr nur Anwender einer Methode, sondern Schöpfer deines eigenen agilen Weges.
 
+Die meisten Unternehmen und Teams, die heute über das Ende der Agilität klagen, haben die erste Phase von Shuhari nie wirklich abgeschlossen. Sie haben die Regeln imitiert (Cargo-Kult), ohne das Fundament zu verstehen. Die Lösung ist also nicht „Post-Agile“, sondern eine ehrliche Auseinandersetzung mit diesem Lernprozess.
+
+Doch wie sieht eine solche Meisterschaft in der Praxis aus? Sie führt nicht weg von der Agilität, sondern zurück zu ihrem Kern. Als Antwort auf die zunehmende Komplexität und die "Fake Agile"-Problematik haben Vordenker der Community brillante Vereinfachungen geschaffen, die uns helfen, den Kompass neu auszurichten.
+
+### Die Essenz neu entdeckt: Heart of Agile und Modern Agile
+
+Zwei dieser Ansätze sind besonders hervorzuheben, da sie den "No Bullshit"-Geist perfekt verkörpern. Sie ausführlich zu erklären, würde den Rahmen dieses Buchs sprengen. Daher möchte ich sie dir nur kurz vorstellen und dich ermuntern, in den angegebenen Quellen zustöbern.
+
+#### Heart of Agile: Die radikale Vereinfachung
+
+Alistair Cockburn (wir kennen ihn schon aus der Vorstellung zum agilen Manifest) hat Jahre später eine radikale Vereinfachung vorgeschlagen: Das **Heart of Agile**[@heart_of_agile]. Er hat beobachtet, dass funktionierende Teams, egal welche Methode sie nutzen, vier Dinge konstant gut machen. Diese vier Verben sind das schlagende Herz jeder agilen Arbeitsweise.
+
+![Heart of Agile](assets/heartofagile.png)
+
+*   **Collaborate (Zusammenarbeiten):** Verbessert die Ideen und schafft Vertrauen.
+*   **Deliver (Liefern):** Liefert echten Wert und ermöglicht Feedback.
+*   **Reflect (Reflektieren):** Macht eine Pause, um nachzudenken und Erkenntnisse zu sammeln.
+*   **Improve (Verbessern):** Passt den Kurs basierend auf diesen Erkenntnissen an.
+
+Das ist es. Kein Scrum, kein Kanban, keine Rollen. Nur dieser einfache, kontinuierliche Kreislauf. Diese Reduktion auf das Wesentliche dient als perfekter Lackmustest: Egal, was ihr tut – tut ihr diese vier Dinge?
+
+#### Modern Agile: Werte für das 21. Jahrhundert
+
+Einen ähnlichen, aber etwas breiter gefassten Weg geht Joshua Kerievsky mit **Modern Agile**†[@agile_modern_nodate]. Er hat die Werte des ursprünglichen Manifests modernisiert und um entscheidende Aspekte wie psychologische Sicherheit und kontinuierliches Lernen erweitert. Modern Agile basiert auf vier Leitprinzipien.
+
+![Modern Agile](assets/modernagile.png)
+
+*   **Make People Awesome (Macht Menschen großartig):** Der Fokus liegt nicht nur auf den Nutzern, sondern auf allen Beteiligten im Ökosystem – Kunden, Kollegen, Partner. Wenn sie durch deine Arbeit erfolgreich und "großartig" werden, wirst du es auch.
+*   **Make Safety a Prerequisite (Macht Sicherheit zur Voraussetzung):** Echte Zusammenarbeit und Innovation sind nur in einem Umfeld möglich, in dem sich Menschen sicher fühlen – sicher, ihre Meinung zu sagen, Experimente zu wagen und Fehler zu machen.
+*   **Experiment & Learn Rapidly (Experimentiert & lernt schnell):** Anstatt auf einen großen Plan zu wetten, führen wir viele kleine, sichere Experimente durch, um schnell zu lernen und den Kurs anzupassen.
+*   **Deliver Value Continuously (Liefert kontinuierlich Wert):** Die Frage ist nicht, "was könnten wir alles bauen?", sondern "was ist das kleinste, wertvollste Stück, das wir jetzt liefern können?".
+
+Beide Ansätze, Heart of Agile und Modern Agile, sind keine neuen, komplexen Frameworks. Sie sind das, was du bekommst, wenn du den ganzen Lärm ausblendest. Sie sind ein Kompass, keine Landkarte.
+
 ### Fazit: Wir sind nicht Post-Agile, wir sind Pre-Shuhari
 
-Die meisten Unternehmen und Teams, die heute über das Ende der Agilität klagen, haben die erste Phase von Shuhari nie wirklich abgeschlossen. Sie haben die Regeln imitiert (Cargo-Kult), ohne das Fundament zu verstehen.
+Die Lösung für die agile Müdigkeit in vielen Unternehmen ist nicht "Post-Agile", sondern eine Rückbesinnung auf den Kern. Das Shuhari-Modell zeigt uns den Lernweg dorthin: Erst die Regeln verstehen, dann anpassen und schließlich meistern.
 
-Die Lösung ist also nicht „Post-Agile“, sondern eine ehrliche Auseinandersetzung mit dem Lernprozess. Hört auf, euch an starre Methoden zu klammern, aber werft nicht die grundlegenden Prinzipien über Bord. Versteht die Grundlagen (Shu), passt sie an euren Kontext an (Ha) und entwickelt daraus eure eigene Meisterschaft (Ri).
+Heart of Agile und Modern Agile sind brillante Beispiele dafür, wie eine solche Meisterschaft aussieht. Sie werfen die grundlegenden Prinzipien nicht über Bord, sondern destillieren sie zu ihrer reinsten Essenz. Sie beweisen, dass Agilität kein starres Regelwerk ist, sondern ein Lernweg, der auch nach über 20 Jahren relevant und lebendig ist. Die meisten Unternehmen sind auf diesem Weg noch nicht am Ende, sondern stehen erst am Anfang.
 
-Shuhari zeigt: Agilität ist ein Lernweg, nicht vorbei. Im nächsten Abschnitt fasse ich die zentralen Erkenntnisse dieses ersten Teils noch einmal klar zusammen.
+
+Im nächsten Abschnitt fasse ich die zentralen Erkenntnisse dieses ersten Teils noch einmal klar zusammen.
 
 ## Erkenntnisse: Das Fundament
 
