@@ -16,7 +16,7 @@ Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu fo
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 1.4.0 des Buchs. 
+Dies ist die Version 1.5.0 des Buchs. 
 
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
@@ -34,6 +34,28 @@ Agiles Arbeiten in der Praxis © 2025 by Thomas Esders is licensed under Creativ
 
 
 # Teil I: Das Fundament
+
+## Was ist Agilität? Und warum ich lieber von agilem Arbeiten spreche
+
+Bevor wir tief in die Methoden und Praktiken eintauchen, lass uns einen Moment innehalten. Im Vorwort und auch im Titel dieses Buchs spreche ich bewusst von **agilem Arbeiten**. Du wirst diesen Begriff hier immer wieder lesen. Doch warum? Der gängige Begriff ist doch "Agilität".
+
+Ehrlich gesagt ist mir der Begriff "Agilität" über die Jahre zu schwammig, zu allgemein und, ja, oft auch einfach verbrannt vorgekommen. In über 80 Folgen meines Podcasts habe ich gemerkt, dass ich mich ganz natürlich in Richtung "agiles Arbeiten" bewegt habe. Es drückt für mich viel besser den Kern aus: das Tun, das Schaffen, das Handwerk.
+
+Was ist also diese grundlegende Haltung, jenseits von Buzzwords und Zertifikaten? Für mich ist es eine Haltung, die drei Dinge radikal in den Mittelpunkt stellt:
+
+1.  **KONTEXT:** Die Anerkennung, dass wir uns fast immer in unsicherem Terrain, im "Neuland", bewegen.
+2.  **ZIEL:** Maximaler Kundenwert, nicht maximale Planerfüllung.
+3.  **FÄHIGKEIT:** Lernen und Anpassen als die alles entscheidende Kernkompetenz.
+
+Umgesetzt wird diese Haltung durch einen gnadenlos ehrlichen Kreislauf: In kurzen Zyklen funktionierende Software liefern, echtes Feedback einholen und den Kurs permanent anpassen.
+
+Genau das ist die Abgrenzung zum plangetriebenen Ansatz. Dieser geht von der Illusion aus, man könne Komplexität durch einen perfekten Plan am Anfang beherrschen. Er optimiert für Vorhersagbarkeit in einer Welt, die nicht vorhersagbar ist. Die Konsequenz dieses Denkens ist die systematische Zerstörung von Wert: Man ignoriert wertvolles Lernen, produziert unnötige Arbeit ("Waste") und liefert am Ende das perfekte Produkt für ein Problem, das der Kunde vielleicht gar nicht mehr hat.
+
+Du siehst also: **Agilität** ist für mich die grundlegende Haltung, das Mindset. **Agiles Arbeiten** ist die tägliche, ehrliche Praxis, die dieses Mindset mit Leben füllt.
+
+Und genau dieses Fundament – diese Haltung – wollen wir uns jetzt genauer ansehen.
+
+## Rituale ohne Seele: Wenn Agilität frustriert
 
 Wir alle sprechen von Agilität. Wir nutzen Scrum, haben Dailys und füllen Backlogs. Und doch stellt sich oft eine quälende Frage: Warum fühlt es sich so oft mühsam, ineffektiv und frustrierend an? Warum scheint das große Versprechen von Agilität in der Praxis so selten eingelöst zu werden?
 
