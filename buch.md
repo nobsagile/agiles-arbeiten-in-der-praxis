@@ -16,7 +16,7 @@ Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu fo
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 2.1.0 des Buchs. 
+Dies ist die Version 2.2.0 des Buchs. 
 
 ## Mitarbeit
 Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
@@ -49,7 +49,21 @@ Was ist also diese grundlegende Haltung, jenseits von Buzzwords und Zertifikaten
 
 Umgesetzt wird diese Haltung durch einen gnadenlos ehrlichen Kreislauf: In kurzen Zyklen funktionierende Software liefern, echtes Feedback einholen und den Kurs permanent anpassen.
 
-Genau das ist die Abgrenzung zum plangetriebenen Ansatz. Dieser geht von der Illusion aus, man könne Komplexität durch einen perfekten Plan am Anfang beherrschen. Er optimiert für Vorhersagbarkeit in einer Welt, die nicht vorhersagbar ist. Die Konsequenz dieses Denkens ist die systematische Zerstörung von Wert: Man ignoriert wertvolles Lernen, produziert unnötige Arbeit ("Waste") und liefert am Ende das perfekte Produkt für ein Problem, das der Kunde vielleicht gar nicht mehr hat.
+Genau das ist die Abgrenzung zum plangetriebenen Ansatz. Dieser geht von der Illusion aus, man könne Komplexität durch einen perfekten Plan am Anfang beherrschen. Er optimiert für Vorhersagbarkeit in einer Welt, die nicht vorhersagbar ist. Nichts verdeutlicht diesen fundamentalen Unterschied besser als die Gegenüberstellung des klassischen „Eisernen Dreiecks“ des Projektmanagements mit seinem agilen Gegenstück.
+
+### Das klassische "magische Dreieck"
+
+![Klassisches "magisches Dreieck"](assets/klassischesdreieck.png)
+
+In diesem Modell steht der **Umfang** an der Spitze und ist fix. Die beiden anderen Ecken, **Zeit** und **Budget**, sind die Variablen, die geschätzt werden, um den festen Umfang zu liefern. Die Qualität, oft als vierte, unsichtbare Variable in der Mitte, ist das Erste, was leidet, wenn Zeit oder Budget knapp werden. Das Ziel ist, den Plan zu erfüllen.
+
+### Das agile "magische Dreieck
+
+![Agiles "magisches Dreieck"](assets/agilesdreieck.png)
+
+Agiles Arbeiten stellt dieses Dreieck buchstäblich auf den Kopf. Im agilen Dreieck sind **Zeit** (in Form von kurzen Iterationen) und **Budget** (z.B. in Form von Teamgröße oder Sprints) die festen Größen. Die Variable, die wir anpassen, ist der **Umfang**. Statt zu fragen: „Wie lange brauchen wir für all diese Features?“, fragen wir: „Welche wertvollsten Features können wir in der vorgegebenen Zeit und mit dem gegebenen Team umsetzen?“ Im Zentrum steht nicht mehr die Planerfüllung, sondern der **Wert** (oder die Qualität) für den Kunden. Wir akzeptieren, dass wir nicht alles wissen können, und optimieren stattdessen für maximales Lernen und maximale Wertschöpfung innerhalb fester Leitplanken.
+
+Diese bewusste Flexibilisierung des Umfangs zugunsten von maximalem Wert ist die Antwort auf eine komplexe Welt. Das Festhalten am starren, plangetriebenen Denken hingegen ist die systematische Zerstörung von Wert: Man ignoriert wertvolles Lernen, produziert unnötige Arbeit ("Waste") und liefert am Ende das perfekte Produkt für ein Problem, das der Kunde vielleicht gar nicht mehr hat.
 
 Du siehst also: **Agilität** ist für mich die grundlegende Haltung, das Mindset. **Agiles Arbeiten** ist die tägliche, ehrliche Praxis, die dieses Mindset mit Leben füllt.
 
