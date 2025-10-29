@@ -12,14 +12,19 @@ Der **dritte Teil** taucht dann tief in die Praxis des agilen Arbeitens ein. Wir
 
 Im **vierten Teil** gehen wir dann praxisnah auf die Methode Kanban ein. Dazu folgender Hinweis: Ich beschreibe Kanban als Methode, da es in seiner Essenz flexibler ist und den hier beschriebenen Kernprinzipien oft näher kommt. Dies ist keine Abwertung von Scrum, sondern ein Plädoyer für einen prinzipienfesten Pragmatismus, den Kanban exemplarisch verkörpert. Alle angesprochenen Themen in den Teilen I bis III sind komplett unabhängig von einer Methode, die agiles Arbeiten implementiert.
 
+## Diversität
+Ich habe einen tollen Hinweis bekommen, dass ich in diesem Buch nicht gendergerecht schreibe. Das ist vollkommen richtig, aber keine bewußte Entscheidung von mir. Ich habe mir lange Gedanken gemacht, wie ich dieses Thema angehen kann. Ich finde alle Vorschläge im Duden dazu eher schwer lesbar. Die einzige pragmatische Form für mich ist, das Geschlecht zu wechseln, also mal von Entwicklerin statt Entwicker zu reden. Das möchte ich auch gerne so machen, jedoch wird es einige Zeit in Anspruch nehmen, die Kapitel entsprechend anzupassen. Daher bitte ich dich um Verständis, dass es keine Absicht oder Herabsetzung ist, wenn du momentan im Buch die männliche Form öfter als die weibliche Form findest.
+
 ## Feedback
 Wenn dir etwas im Buch auffällt oder du Feedback hast, freue ich mich sehr darüber. Du erreichst mich per Mail an nobsagile@gmail.com oder auf Mastodon unter https://mastodon.social/\@nobsagile.
 
 ## Version
-Dies ist die Version 2.2.0 des Buchs. 
+Dies ist die Version 2.2.1 des Buchs. 
 
 ## Mitarbeit
-Du kannst an dem Buch hier mitarbeiten: https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
+Du kannst an dem Buch hier mitarbeiten: 
+
+https://github.com/nobsagile/agiles-arbeiten-in-der-praxis
 
 Vielen Dank an folgende Kontributoren:
 
